@@ -12,7 +12,7 @@ class Cdoc < Formula
 
   def install
     system "make"
-    system "make", "install"
+    bin.install "bin/cdoc"
   end
 
   test do
