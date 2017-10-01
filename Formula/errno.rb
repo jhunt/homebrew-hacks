@@ -1,12 +1,11 @@
 class Errno < Formula
-  s = "209591b4f3aa8545f69604db31c81a0dc5319b6fb67ebca5ddd64bdcaa9e5ee0" # ci:sha256
-  v = "0.0.1" # ci:version
+  s = "efea5d0de3ba9897b2f5ec9bc8ac9804aab1bebeb2ded06d39f63360b9183716" # ci:sha256
+  v = "1.0" # ci:version
 
   desc     "Display system error code names, numbers and descriptions."
-  homepage "https://github.com/jhunt/errno"
+  homepage "https://jameshunt.us/code/errno"
 
-  head     "https://github.com/jhunt/errno.git"
-  url      "https://github.com/teancom/errno/archive/#{v}.tar.gz"
+  url      "https://github.com/jhunt/errno/archive/v#{v}.tar.gz"
 
   version  v
   sha256   s
