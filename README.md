@@ -12,6 +12,7 @@ for free, on your Mac!  What more could a hacker ask for?
 Utilies Included
 ----------------
 
+- **s3** - A minimialist Amazon S3 client
 - **cdoc** - A documentation extractor for C codebases
 - **vex** - A vim-like hex editor
 - **errno** - A small utility for printing error numbers / strings
