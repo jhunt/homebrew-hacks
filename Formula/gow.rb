@@ -1,5 +1,5 @@
 class Gow < Formula
-  s = "232b89b55502135e48d159143ba79ea74a744dd1ac2c3132339ec358bd16d0a0" # ci:sha256
+  s = "6a7674b0ffcfaa543265f4099f47da2a79d8927b7630d5dbe16a252ac305108d" # ci:sha256
   v = "1.0.0" # ci:version
 
   desc     "A static-file HTTP server"
