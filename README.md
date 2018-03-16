@@ -18,6 +18,7 @@ Utilies Included
 - **errno** - A small utility for printing error numbers / strings
 - **tt** - A non-nonsense time tracker, for {freelanc,consult}ing
 - **gow** A static-file web server
+- **botherhub** - A Github nag utility
 
 Just `brew install X` for any of the above utilities and you
 should be good to go.
