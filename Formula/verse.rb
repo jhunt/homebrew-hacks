@@ -1,5 +1,5 @@
 class Verse < Formula
-  s = "cad0df12692905395116865d986f2a179f91d905cb986f6f6f15337d46cbf8dc" # ci:sha256
+  s = "d6d62d5db9653841cc0fc2bcb303adb2d06166e974d432d40b3812d801a1f5cb" # ci:sha256
   v = "0.10.0" # ci:version
 
   desc     "A Static Site Generator"
