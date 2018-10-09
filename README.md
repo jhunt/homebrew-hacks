@@ -20,6 +20,7 @@ Utilies Included
 - **tt** - A non-nonsense time tracker, for {freelanc,consult}ing
 - **gow** A static-file web server
 - **botherhub** - A Github nag utility
+- **osb** - A CLI for interacting with OSBAPI-compliant Service Brokers
 
 Just `brew install X` for any of the above utilities and you
 should be good to go.
