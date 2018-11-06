@@ -1,5 +1,5 @@
 class Osb < Formula
-  s = "691054a8f2b0b082964f99b3c4ed7477da73e5e2bfd7911f349ac22c07753718" # ci:sha256
+  s = "ff7a5a6da464bec5e092912f150b9cd05ef122f11c92a366d374dc4922876896" # ci:sha256
   v = "0.1.1" # ci:version
 
   desc     "A CLI for interacting with OSBAPI-compliant Service Brokers"
