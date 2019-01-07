@@ -1,6 +1,6 @@
 class S3 < Formula
-  s = "3dce7396949707732427ba07e32951d382c492147b0eab0127edde8d7dea4446" # ci:sha256
-  v = "0.2.4" # ci:version
+  s = "fb462f655acc620b7845c5cbd5ae3ccf7870dd6c07e9c2efa5b0bf913fdc8679" # ci:sha256
+  v = "0.2.5" # ci:version
 
   desc     "A minimalist Amazon S3 client"
   homepage "https://jameshunt.us/code/s3"
