@@ -18,6 +18,7 @@ Utilies Included
 - **vex** - A vim-like hex editor
 - **errno** - A small utility for printing error numbers / strings
 - **tt** - A non-nonsense time tracker, for {freelanc,consult}ing
+- **whereslloyd** - BURRITOS!
 - **gow** A static-file web server
 - **botherhub** - A Github nag utility
 - **osb** - A CLI for interacting with OSBAPI-compliant Service Brokers
