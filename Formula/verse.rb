@@ -1,6 +1,6 @@
 class Verse < Formula
-  s = "7cd1d94650807176e1cf493af69886f5cc47d481c725485f6613d48afadee00f" # ci:sha256
-  v = "0.11.0" # ci:version
+  s = "12ebc297cfadec416f2be0c8621e2018c67596c7270e4ba24430105c5a2d351e" # ci:sha256
+  v = "0.12.0" # ci:version
 
   desc     "A Static Site Generator"
   homepage "https://jameshunt.us/code/vex"
