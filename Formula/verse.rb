@@ -1,9 +1,9 @@
 class Verse < Formula
-  s = "12ebc297cfadec416f2be0c8621e2018c67596c7270e4ba24430105c5a2d351e" # ci:sha256
-  v = "0.12.0" # ci:version
+  s = "e5484a3cec326c5f4ecc07123ff693ebf732e20179d84d2e691b014ef0f9ae1c" # ci:sha256
+  v = "0.14.0" # ci:version
 
   desc     "A Static Site Generator"
-  homepage "https://jameshunt.us/code/vex"
+  homepage "https://verse.jameshunt.us"
 
   url      "https://github.com/jhunt/verse/releases/download/v#{v}/verse"
 
